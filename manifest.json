@@ -1,0 +1,20 @@
+{
+  "name": "Curse Energy Damage Calculator",
+  "short_name": "CE Calculator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f1220",
+  "theme_color": "#6c7bff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
